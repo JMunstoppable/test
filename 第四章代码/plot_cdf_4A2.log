@@ -1,0 +1,30 @@
+加载模型...
+  D1 loaded
+  D8 loaded
+  EPN loaded
+
+--- SNR = -6 dB ---
+  dpd_peak  : RMSE= 913.6m  median=29.0m  n=10000
+  EPN       : RMSE= 273.8m  median=87.1m  n=10000
+  D1        : RMSE=  69.8m  median=13.1m  n=10000
+  D8        : RMSE=  17.1m  median=11.8m  n=10000
+
+已保存: fig_4A2_cdf_snr-6dB.png
+
+--- SNR = 0 dB ---
+  dpd_peak  : RMSE= 842.9m  median=19.9m  n=10000
+  EPN       : RMSE= 188.9m  median=39.2m  n=10000
+  D1        : RMSE=  15.0m  median=9.1m  n=10000
+  D8        : RMSE=  12.5m  median=6.4m  n=10000
+
+已保存: fig_4A2_cdf_snr+0dB.png
+
+--- SNR = 10 dB ---
+  dpd_peak  : RMSE= 798.2m  median=19.9m  n=10000
+  EPN       : RMSE=  91.7m  median=29.5m  n=10000
+  D1        : RMSE=  19.6m  median=9.6m  n=10000
+  D8        : RMSE=  11.3m  median=6.2m  n=10000
+
+已保存: fig_4A2_cdf_snr+10dB.png
+
+全部完成!
